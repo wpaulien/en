@@ -539,6 +539,7 @@ h6,
 }
 #header1-7 .mbr-section-title {
   font-family: 'Lora', serif;
+  text-align: center;
 }
 
 #menu-8 .hide-buttons .nav-btn {
@@ -913,6 +914,10 @@ h6,
 #header1-f .mbr-section-title {
   font-size: 60px;
   color: #ffffff;
+  text-align: right;
+}
+#header1-f .mbr-section-title SPAN {
+  font-size: 60px;
 }
 #content1-h P {
   text-align: center;
