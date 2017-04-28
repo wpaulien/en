@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3rd Year Bachelor",
-    "currentPage": "contact.html",
+    "currentPage": "other.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -33,7 +33,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "HOME",
+        "title": "Paulien Wellens - Home",
         "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, homepage",
         "header_custom": "",
         "footer_custom": "",
@@ -169,7 +169,7 @@
     },
     "artworks.html": {
       "settings": {
-        "title": "ARTWORKS",
+        "title": "Paulien Wellens - Artworks",
         "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, artworks"
       },
       "components": [
@@ -303,7 +303,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact",
+        "title": "Paulien Wellens - Contact",
         "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, contact"
       },
       "components": [
@@ -435,7 +435,7 @@
           "form": {
             "action": "wpaulien@gmail.com",
             "alerts": {
-              "success": "Thank you for your email! Paulien will answer it as soon as possible!"
+              "success": "Thank you for your email! I will answer it as soon as possible. "
             },
             "fields": {
               "name": {
@@ -465,7 +465,7 @@
     },
     "glass.html": {
       "settings": {
-        "title": "Glass",
+        "title": "Paulien Wellens - Glass",
         "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, glass"
       },
       "components": [
@@ -1590,7 +1590,7 @@
     },
     "ceramics.html": {
       "settings": {
-        "title": "Ceramics",
+        "title": "Paulien Wellens - Ceramics",
         "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, ceramics"
       },
       "components": [
@@ -2067,7 +2067,7 @@
     },
     "about.html": {
       "settings": {
-        "title": "About",
+        "title": "Paulien Wellens - About",
         "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, about"
       },
       "components": [
@@ -2212,7 +2212,7 @@
     },
     "other.html": {
       "settings": {
-        "title": "Other...",
+        "title": "Paulien Wellens - Other",
         "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, other, artworks, metal, wood, installations"
       },
       "components": [
