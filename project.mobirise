@@ -33,8 +33,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "HOME",
+        "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, homepage",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -170,7 +170,7 @@
     "artworks.html": {
       "settings": {
         "title": "ARTWORKS",
-        "meta_descr": "Artworks: Glass or Ceramics."
+        "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, artworks"
       },
       "components": [
         {
@@ -304,7 +304,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact",
-        "meta_descr": "Contact details."
+        "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, contact"
       },
       "components": [
         {
@@ -466,7 +466,7 @@
     "glass.html": {
       "settings": {
         "title": "Glass",
-        "meta_descr": "Glass artworks."
+        "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, glass"
       },
       "components": [
         {
@@ -1591,7 +1591,7 @@
     "ceramics.html": {
       "settings": {
         "title": "Ceramics",
-        "meta_descr": "Ceramic artworks."
+        "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, ceramics"
       },
       "components": [
         {
@@ -2068,7 +2068,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "About the artist, (biography)."
+        "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, about"
       },
       "components": [
         {
@@ -2213,7 +2213,7 @@
     "other.html": {
       "settings": {
         "title": "Other...",
-        "meta_descr": "Other artworks: silversmithing, wood, installations..."
+        "meta_descr": "copyright, Paulien Wellens, Paulien, Wellens, other, artworks, metal, wood, installations"
       },
       "components": [
         {
