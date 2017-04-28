@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3rd Year Bachelor",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -435,7 +435,7 @@
           "form": {
             "action": "wpaulien@gmail.com",
             "alerts": {
-              "success": "Thank you for your email! I will answer it as soon as possible. "
+              "success": "Thank you for your email! Paulien will answer it as soon as possible!"
             },
             "fields": {
               "name": {
