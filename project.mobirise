@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "3rd Year Bachelor",
-    "currentPage": "glass.html",
+    "name": "3rd Year Bachelor - EN",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 113,
+    "uniqCompNum": 118,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -1326,10 +1326,7 @@
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
-            "I": {
-              "color": "#c1c1c1"
-            },
-            "SPAN": {
+            "H3": {
               "color": "#c1c1c1"
             }
           },
@@ -1337,14 +1334,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2z",
+          "_anchor": "header3-35",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">1st Semester, 3rd BA Year:</span> <i>Individual Canes</i>",
+          "title": "<span style=\"font-weight: normal;\">1st Semester, 3rd BA Year: </span><i>Individual Canes</i>",
           "meta": "Sydney, Australia"
         },
         {
@@ -1756,8 +1753,8 @@
           "_name": "header3",
           "_anchor": "header3-2m",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingTop": "6",
+            "paddingBottom": "1",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -2351,7 +2348,379 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>During Paulien's Erasmus exchange program at SCA, in Sydney, Australia, she learned to work with metal and wood. She followed a course in their <b><i>Wood</i></b> workshop and also a course about S<b><i>ilversmithing</i></b> in their <b><i>Jewellery &amp; Object</i></b> workshop. On this page, you will find all the works she had made in these materials during her exchange program.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p>During Paulien's Erasmus exchange program at SCA, in Sydney, Australia, she learned to work with metal and wood. She followed a course in their <b><i>Wood</i></b> workshop and also a course about S<b><i>ilversmithing</i></b> in their <b><i>Jewellery &amp; Object</i></b> workshop. On this page, you will find all the works she had made in these materials during her exchange program.&nbsp;</p><p><br></p><p>On this page, you will also find Paulien's installation works. She first tried out <b><i>installation art</i></b> in the second semester of her second BA year, in which she used different types of clay. She enjoyed working on such a large scale, and was able to try out different materials. The second time Paulien made an installation piece, was during the first semester of her third BA year, in which the materials were paper and salt. &nbsp;</p><p><br></p><p><br></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-36",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">2nd Semester, 2nd BA Year:</span> <i>Explosion!</i>",
+          "meta": "Ghent, Belgium"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-2-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Frames",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-3-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Close Up",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-4-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Close Up",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-5-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Frames",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-6-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Frames",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-7-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Frames",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/explosion-8-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/explosion-8.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-37",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-39",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">1st Semester, 3rd BA Year: </span><i>Growing</i>",
+          "meta": "Sydney, Australia"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "4",
+            "images": [
+              {
+                "tags": "Preparation",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Preparation",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-2-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-2-.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Preparation",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-1-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Preparation",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-2-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Preparation",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-3-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Dark",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-4-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Dark",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-5-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Dark",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-6-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Light",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-7-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Dark",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-8-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Light",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-9-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Close Up",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-10-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Dark",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-12-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-12.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "In the Light",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-13-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-13.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Close Up",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-14-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Close Up",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-15-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-15.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-16-800x1071.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-16.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-17-800x597.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-17.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flowers-18-800x597.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flowers-18.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-38",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -2371,7 +2740,7 @@
           "_name": "header3",
           "_anchor": "header3-2g",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -2387,7 +2756,7 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "4",
             "images": [
               {
                 "tags": "Hammer Practice (1)",
