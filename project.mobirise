@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3rd Year Bachelor - EN",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,12 +22,14 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 118,
+    "uniqCompNum": 120,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96119570-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -128,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artworks.html\">ARTWORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artworks.html\">ARTWORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"wpaulien.github.io/nl\">(NL)</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -435,7 +437,7 @@
           "form": {
             "action": "wpaulien@gmail.com",
             "alerts": {
-              "success": "Thank you for your email! I will answer it as soon as possible. "
+              "success": "Thank you for your email! Paulien will answer it as soon as possible. "
             },
             "fields": {
               "name": {
@@ -799,6 +801,56 @@
                 "image": "@PROJECT_PATH@/assets/images/dsc-133.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Glass Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glasshead2-800x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glasshead2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Glass Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glasshead4-800x1168.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glasshead4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Glass Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glasshead1-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glasshead1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Glass Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glasshead3-800x1048.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glasshead3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Glass Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glasshead5-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glasshead5.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -1679,7 +1731,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artworks.html\">ARTWORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artworks.html\">ARTWORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">NL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1894,7 +1946,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">1st Semester, 2nd BA Year</span>",
+          "title": "<span style=\"font-weight: normal;\">1st Semester, 2nd BA Year: </span><i>Unbaked</i>",
           "meta": "Ghent, Belgium"
         },
         {
@@ -2057,6 +2109,352 @@
             "showBullets": true
           },
           "_anchor": "gallery4-2o",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3a",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">1st Semester, 2nd BA Year:</span> <i>Baked</i>",
+          "meta": "Ghent, Belgium"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Tattooed Heads",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed9-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed10-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed11-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed12-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed12.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed13-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed13.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads Without Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faceless6-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faceless6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads Without Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faceless5-800x578.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faceless5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed14-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads Without Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faceless1-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faceless1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Heads Without Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faceless2-800x592.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faceless2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed5-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed6-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed7-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed8-800x1063.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed1-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed2-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed3-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Tattooed Faces",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tattooed4-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tattooed4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head7-800x552.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head8-800x628.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head5-800x624.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head6-800x524.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head3-800x724.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head4-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head1-800x631.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head2-800x556.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head10-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/head9-800x1299.jpg",
+                "image": "@PROJECT_PATH@/assets/images/head9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faceless3-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faceless3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Other...",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/faceless4-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faceless4.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-3b",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -2301,7 +2699,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artworks.html\">ARTWORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"artworks.html\">ARTWORKS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">NL</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2348,7 +2746,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>During Paulien's Erasmus exchange program at SCA, in Sydney, Australia, she learned to work with metal and wood. She followed a course in their <b><i>Wood</i></b> workshop and also a course about S<b><i>ilversmithing</i></b> in their <b><i>Jewellery &amp; Object</i></b> workshop. On this page, you will find all the works she had made in these materials during her exchange program.&nbsp;</p><p><br></p><p>On this page, you will also find Paulien's installation works. She first tried out <b><i>installation art</i></b> in the second semester of her second BA year, in which she used different types of clay. She enjoyed working on such a large scale, and was able to try out different materials. The second time Paulien made an installation piece, was during the first semester of her third BA year, in which the materials were paper and salt. &nbsp;</p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p>On this page, you will find Paulien's installation works. She first tried out installation art in the second semester of her second BA year, in which she used different types of clay. She enjoyed working on such a large scale, and was able to try out different materials. The second time Paulien made an installation piece, was during the first semester of her third BA year, in which the materials were paper and salt (<i>Growing</i>). &nbsp;</p><p><br></p><p><br></p><p>During Paulien's Erasmus exchange program at SCA, in Sydney, Australia, she learned to work with metal and wood. She followed a course in their <b><i>Wood</i></b> workshop and also a course about S<b><i>ilversmithing</i></b> in their <b><i>Jewellery &amp; Object</i></b> workshop. On this page, you will also find all the works she had made in these materials during her exchange program.&nbsp;</p><p><br></p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
@@ -2527,17 +2925,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/flowers-800x1071.jpg",
                 "image": "@PROJECT_PATH@/assets/images/flowers.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Preparation",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flowers-2-800x1071.jpg",
-                "image": "@PROJECT_PATH@/assets/images/flowers-2-.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Preparation",
@@ -2657,7 +3045,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/flowers-13-800x1071.jpg",
                 "image": "@PROJECT_PATH@/assets/images/flowers-13.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Close Up",
