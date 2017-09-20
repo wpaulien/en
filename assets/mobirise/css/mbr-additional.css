@@ -827,6 +827,13 @@ h6,
 #header3-3a H3 {
   color: #c1c1c1;
 }
+#header3-3c .mbr-section-title,
+#header3-3c .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3c H3 {
+  color: #c1c1c1;
+}
 
 #menu-k .hide-buttons .nav-btn {
   display: none !important;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "3rd Year Bachelor - EN",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 120,
+    "uniqCompNum": 122,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled.jpg",
     "noImageResize": "true",
@@ -2457,6 +2457,152 @@
           "_anchor": "gallery4-3b",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c1c1c1"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">2nd Semester, 3rd BA Year: </span><i>Let's Play A Game</i>",
+          "meta": "Ghent, Belgium"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#1",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-2-800x552.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-3-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#2",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-4-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#3",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-5-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#3",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-6-800x574.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#4",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-7-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "#4",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-8-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-8.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Entire Scene",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lpag-9-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lpag-9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-3d",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
@@ -2601,7 +2747,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Welcome to Paulien's website!</p><p><br></p><p>&nbsp; &nbsp;Paulien Wellens studies&nbsp;<b><i>Fine Arts: Glass and Ceramics</i></b> at LUCA School of Arts, in Ghent, Belgium. After three years, her time at LUCA has passed by wonderfully well, and she is currently finishing off her final semester. During the first semester of Paulien's third year, she did an Erasmus exchange program at Sydney College of the Arts (SCA), part of the University of Sydney (USYD), in Sydney, Australia. Having now returned to Ghent, she's expected to graduate with her bachelor diploma in July this year.&nbsp;</p><p><br></p><p>Whilst attending &nbsp;high school at La Grande Boissiere (LGB) - International School of Geneva, in Geneva, Switzerland, Paulien discovered clay as a medium during after-school art classes. She loved spending time with the material, as it gave her a chance to work with her hands. When high school graduation came around the corner, she started considering an art direction for her further studies, specifically with clay. Paulien discovered that LUCA School of Arts in Ghent, Belgium, offered her the chance to study ceramics, along with glass. Glass was then a new medium for her and a completely new experience.&nbsp;</p><p><br></p><p>As mentioned above, Paulien had spent six months on an exchange program at Sydney College of the Arts (SCA) in Sydney, Australia. The number of exchange locations that LUCA had provided its students to choose from were immense. She was astonished by the rich variety in materials and workshops the SCA campus provided its students. They had an unbelievable workplace and the opportunities for glass and ceramics were particularly extensive. Its educational system is very different from LUCA's system. Paulien had to create technical and practical works at SCA. In order to do so, she studied the materials she used to the core, and learned how to create functional objects. She worked mainly with hot glass, and was really able to broaden her experience and view within the material. Paulien also briefly worked with wood and silversmithing, which allowed her to see how they could co-opoerate with glass.&nbsp;</p>"
+          "text": "<p>Welcome to Paulien's website!</p><p><br></p><p>&nbsp; &nbsp;Paulien Wellens studies&nbsp;<b><i>Fine Arts: Glass and Ceramics</i></b> at LUCA School of Arts, in Ghent, Belgium. After three years, her time at LUCA has passed by wonderfully well, and she is currently finishing off her final semester. During the first semester of Paulien's third year, she did an Erasmus exchange program at Sydney College of the Arts (SCA), part of the University of Sydney (USYD), in Sydney, Australia. Having now returned to Ghent, she's expected to graduate with her bachelor diploma in July this year.&nbsp;</p><p><br></p><p>Whilst attending high school at La Grande Boissiere (LGB) - International School of Geneva, in Geneva, Switzerland, Paulien discovered clay as a medium during after-school art classes. She loved spending time with the material, as it gave her a chance to work with her hands. When high school graduation came around the corner, she started considering an art direction for her further studies, specifically with clay. Paulien discovered that LUCA School of Arts in Ghent, Belgium, offered her the chance to study ceramics, along with glass. Glass was then a new medium for her and a completely new experience.&nbsp;</p><p><br></p><p>As mentioned above, Paulien had spent six months on an exchange program at Sydney College of the Arts (SCA) in Sydney, Australia. The number of exchange locations that LUCA had provided its students to choose from were immense. She was astonished by the rich variety in materials and workshops the SCA campus provided its students. They had an unbelievable workplace and the opportunities for glass and ceramics were particularly extensive. Its educational system is very different from LUCA's system. Paulien had to create technical and practical works at SCA. In order to do so, she studied the materials she used to the core, and learned how to create functional objects. She worked mainly with hot glass, and was really able to broaden her experience and view within the material. Paulien also briefly worked with wood and silversmithing, which allowed her to see how they could co-opoerate with glass.&nbsp;</p>"
         }
       ]
     },
