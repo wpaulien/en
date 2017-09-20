@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled.jpg",
     "noImageResize": "true",
@@ -2471,14 +2471,14 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-3c",
+          "_anchor": "header3-3e",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "5",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<span style=\"font-weight: normal;\">2nd Semester, 3rd BA Year: </span><i>Let's Play A Game</i>",
+          "title": "<span style=\"font-weight: normal;\">2nd Semester, 3rd BA Year:</span> <i>Let's Play a Game</i>",
           "meta": "Ghent, Belgium"
         },
         {
@@ -2489,7 +2489,7 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "3",
             "images": [
               {
                 "tags": "Entire Scene",
